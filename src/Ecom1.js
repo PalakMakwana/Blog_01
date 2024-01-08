@@ -7,6 +7,7 @@ function Ecom1() {
       <Container>
         <Row>
           <Col>Hello</Col>
+          <Col>World</Col>
         </Row>
       </Container>
     </div>
